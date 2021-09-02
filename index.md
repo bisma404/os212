@@ -17,5 +17,4 @@ Contact Me:
 
 I made this page using a help from [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
 
-### Thanks for reading!
-## Qapla!
+## Thanks for reading!
