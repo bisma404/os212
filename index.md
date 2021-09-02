@@ -9,7 +9,7 @@ My name is Bisma Nurrauf and I love playing video games.🎮
 ---
 
 > ### I'm gonna make a To-Do List for my assignments **HERE!**
->> - Study OS and do the W00 (Due in 2 days)
+>> - Study OS and do the W00 (Due in 2 days)✔️
 >> - MPPI Discussion Forum and Weekly Reflection (Due tomorrow)✔️
 >> - SDA Analisis Algoritma Checkpoint (Due tomorrow)✔️
 >> - PBP Individual Task (Due in 3 days)
