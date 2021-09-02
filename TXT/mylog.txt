@@ -5,3 +5,8 @@ ZCZC W00 90 L02 ZOOM meetings related
 ZCZC W00 20 L03 GitHub related
 ZCZC W00 60 L04 GitHub Pages related
 ZCZC W00 10 L01 SCELE/Discord related
+ZCZC W00 105 L70 Studying for other courses.
+ZCZC W00 105 L73 Gaming
+ZCZC W00 90 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W00 60 L82 Reading Book (paper or online)
+ZCZC W00 300 L84 Relax, Rest, and Sleep
