@@ -1,4 +1,8 @@
 # Hello World!
+
+| [HOME](https://bisma404.github.io/os212/) | [LOG](https://bisma404.github.io/os212/TXT/mylog.txt) |
+| ;---------------------------------------; | ;---------------------------------------------------; |
+
 My name is Bisma Nurrauf and I love playing video games.
 > One day I'll make a video game everyone would love!
 **But** *first,* I need to study hard..
