@@ -12,5 +12,10 @@ My name is Bisma Nurrauf and I love playing video games.
 >> - PBP Individual Task (Due in 4 days)
 >> - ALIN ***DO FORUM!!!*** (Due this weekend)
 
+Contact Me:
+<bismanurrauf@gmail.com>
+
+I made this page using [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 ### Thanks for reading!
 ## Qapla!
