@@ -18,9 +18,14 @@ ZCZC W00 180 L73 Gaming
 ZCZC W00 100 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W00 90 L82 Reading Book (paper or online)
 ZCZC W00 1500 L84 Relax, Rest, and Sleep
-ZCZC W01 120 L02 ZOOM meetings related
+ZCZC W01 240 L02 ZOOM meetings related
+ZCZC W01 30 L03 GitHub related
 ZCZC W01 10 L04 GitHub Pages related
 ZCZC W01 5 L05 Quiz related
-ZCZC W01 60 L11 Assignment #01
-ZCZC W01 60 L12 Assignment #02
+ZCZC W01 150 L08 AsDos: asking, etc.
+ZCZC W01 500 L09 Assignment in General
 ZCZC W01 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 700 L70 Studying for other courses.
+ZCZC W01 60 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W01 200 L82 Reading Book (paper or online)
+ZCZC W01 1500 L84 Relax, Rest, and Sleep
