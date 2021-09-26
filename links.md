@@ -10,3 +10,6 @@ This website contains tutorial about markdown language to help beautifying your 
 
 ###3. https://www.youtube.com/
 This website contains everything you wanna watch from Operating System, other subjects, and fun stuffs!
+
+###4. https://scele.cs.ui.ac.id/
+This website contains everything about courses in Fasilkom. For OS, don't forget to drop contacts every week and take care not to get ATTN!
