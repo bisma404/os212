@@ -2,7 +2,7 @@
 
 | [LOG](TXT/mylog.txt) | [REPO](https://github.com/bisma404/os212) | [LINKS](links.md) |
 
-My name is Bisma Nurrauf and I love playing video games.🎮
+tTeQiir91HBz8ufRrSSCXAjA/41qlnG49yFhqP52TquSB8LLmuWPdkTa5U47Kkj8xpGke8Sqf10zP4J9hDEU7A==🎮
 > One day I'll make a video game everyone would love!  
 **But** *first,* I need to study hard..
 
