@@ -72,3 +72,18 @@ ZCZC W04 700 L70 Studying for other courses.
 ZCZC W04 600 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W04 100 L82 Reading Book (paper or online)
 ZCZC W04 1500 L84 Relax, Rest, and Sleep
+
+ZCZC W05 30 L01 SCELE/Discord related
+ZCZC W05 240 L02 ZOOM meetings related
+ZCZC W05 30 L03 GitHub related
+ZCZC W05 20 L04 GitHub Pages related
+ZCZC W05 20 L05 Quiz related
+ZCZC W05 300 L06 References/Books/Documents/GSGS related
+ZCZC W05 300 L09 Assignment in General
+ZCZC W05 120 L32 YouTube: study, etc.
+ZCZC W05 30 L60 Reinstall/Restore/Backup Computer after crash
+ZCZC W05 700 L70 Studying for other courses.
+ZCZC W05 90 L73 Gaming
+ZCZC W05 240 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W05 100 L82 Reading Book (paper or online)
+ZCZC W05 1500 L84 Relax, Rest, and Sleep
