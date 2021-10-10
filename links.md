@@ -22,3 +22,9 @@ A place where programmers ask questions and share their ideas about programming.
 
 ###7. https://github.com/
 A place where OS assignments are dumped.
+
+###8. https://chronojudge.netlify.app/
+Check your code here before admitting it to Sofita!
+
+###9. https://popowi.netlify.app/
+oogh, KAGET!
