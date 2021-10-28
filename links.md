@@ -28,3 +28,12 @@ Check your code here before admitting it to Sofita!
 
 ###9. https://popowi.netlify.app/
 oogh, KAGET!
+
+###10. https://csui2020.github.io/
+Our Family!
+
+###11. https://susunjadwal.cs.ui.ac.id/susun
+Brace yourself for the war of the kings!
+
+###12. https://academic.ui.ac.id
+Don't ever share your password!
