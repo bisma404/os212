@@ -37,3 +37,6 @@ Brace yourself for the war of the kings!
 
 ###12. https://academic.ui.ac.id
 Don't ever share your password!
+
+###12. https://twitter.com
+Place to sambat
