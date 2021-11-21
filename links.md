@@ -1,4 +1,5 @@
----permalink: /LINKS/
+---
+permalink: /LINKS/
 ---
 # LINKS
 ###1. https://os.vlsm.org/
