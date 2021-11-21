@@ -1,5 +1,4 @@
----
-permalink: /LINKS/
+---permalink: /LINKS/
 ---
 # LINKS
 ###1. https://os.vlsm.org/
@@ -8,35 +7,29 @@ This website contains everything you need to know from Operating System!
 ###2. https://www.markdownguide.org/
 This website contains tutorial about markdown language to help beautifying your GHP.
 
-###3. https://www.youtube.com/
-This website contains everything you wanna watch from Operating System, other subjects, and fun stuffs!
+###3. https://scele.cs.ui.ac.id/course/view.php?id=3268
+This website contains everything about OS courses in pacil, don't forget to drop contacts every week and take care not to get ATTN!
 
-###4. https://scele.cs.ui.ac.id/
-This website contains everything about courses in Fasilkom. For OS, don't forget to drop contacts every week and take care not to get ATTN!
-
-###5. https://osp4diss.vlsm.org/osp-114.html
+###4. https://osp4diss.vlsm.org/osp-114.html
 The 4 Git Mantras.
 
-###6. https://stackoverflow.com/
-A place where programmers ask questions and share their ideas about programming.
+###5. https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/
+Little Endian and Big Endian
 
-###7. https://github.com/
-A place where OS assignments are dumped.
+###6. https://www.geeksforgeeks.org/virtual-memory-in-operating-system/
+VMs..
 
-###8. https://chronojudge.netlify.app/
-Check your code here before admitting it to Sofita!
+###7. https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8
+Threads and concurrency
 
-###9. https://popowi.netlify.app/
-oogh, KAGET!
+###8. https://youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE
+LFS playlist.
 
-###10. https://csui2020.github.io/
-Our Family!
+###9. https://www.studytonight.com/operating-system/process-synchronization
+Sync
 
-###11. https://susunjadwal.cs.ui.ac.id/susun
-Brace yourself for the war of the kings!
+###10. https://www.youtube.com/watch?v=2h3eWaPx8SA
+Scheduling
 
-###12. https://academic.ui.ac.id
-Don't ever share your password!
-
-###13. https://twitter.com
-Place to sambat
+###11. https://courses.lumenlearning.com/zeliite115/chapter/reading-firmware/
+Firmware..

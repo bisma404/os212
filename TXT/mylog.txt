@@ -115,3 +115,30 @@ ZCZC W07 100 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W07 300 L81 Listening: Radio, Music, etc.
 ZCZC W07 120 L82 Reading Book (paper or online)
 ZCZC W07 1500 L84 Relax, Rest, and Sleep
+
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 120 L02 ZOOM meetings related
+ZCZC W08 30 L03 GitHub related
+ZCZC W08 20 L05 Quiz related
+ZCZC W08 120 L32 YouTube: study, etc.
+ZCZC W08 700 L70 Studying for other courses.
+ZCZC W08 100 L71 Working  (General)
+ZCZC W08 100 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W08 300 L81 Listening: Radio, Music, etc.
+ZCZC W08 120 L82 Reading Book (paper or online)
+ZCZC W08 1500 L84 Relax, Rest, and Sleep
+
+ZCZC W09 30 L01 SCELE/Discord related
+ZCZC W09 120 L02 ZOOM meetings related
+ZCZC W09 30 L03 GitHub related
+ZCZC W09 20 L05 Quiz related
+ZCZC W09 500 L06 References/Books/Documents/GSGS related
+ZCZC W09 500 L09 Assignment in General
+ZCZC W09 120 L32 YouTube: study, etc.
+ZCZC W09 700 L70 Studying for other courses.
+ZCZC W09 80 L71 Working  (General)
+ZCZC W09 60 L73 Gaming
+ZCZC W09 100 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W09 300 L81 Listening: Radio, Music, etc.
+ZCZC W09 120 L82 Reading Book (paper or online)
+ZCZC W09 1500 L84 Relax, Rest, and Sleep
